@@ -1,0 +1,8 @@
+- !!IMPORTANT!! skill [https://code.claude.com/docs/en/skills]
+    - Agent Skills [https://agentskills.io/home]
+    - "Use dynamic context injection (with !command`` syntax) to pull live data into the prompt"
+    - Available string substitutions
+    - Pass arguments to skills
+    - (Generate visual output)
+- claude code (101)
+- claude design
